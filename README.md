@@ -1,3 +1,15 @@
+![SNAG-42012423584600](https://user-images.githubusercontent.com/59305419/93005768-765bb100-f554-11ea-8927-7c61fd120d1c.png)
+
+![SNAG-42012423593400](https://user-images.githubusercontent.com/59305419/93005770-7bb8fb80-f554-11ea-8091-9f599a628a9e.png)
+
+![SNAG-42012500001000](https://user-images.githubusercontent.com/59305419/93005772-81aedc80-f554-11ea-8bd3-620477526416.png)
+
+![SNAG-42012500011000](https://user-images.githubusercontent.com/59305419/93005774-85426380-f554-11ea-9be3-526b430955be.png)
+
+![SNAG-42012500012700](https://user-images.githubusercontent.com/59305419/93005775-870c2700-f554-11ea-9563-717344735214.png)
+
+![SNAG-42012500014500](https://user-images.githubusercontent.com/59305419/93005776-88d5ea80-f554-11ea-9766-d3e92a83794a.png)
+
 ### (if you like this app please give me a star)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
